@@ -1,10 +1,12 @@
 welcome:
   - typing: true
     text:
-      - Hello {{user.first_name}}
+      - Hello there!
   - text: Welcome to project finder!
     typing: true
   - text: I'm here to help you build a cool project with code.
+    typing: true
+  - text: What language do you want to build a project in?
     typing: true
 
 goodbye:
